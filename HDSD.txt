@@ -1,0 +1,4 @@
+1. Nhập hết các giá trị rồi bấm Format để đổi định dạng hiện, mục nào sai thì sửa rồi bấm format tiếp
+2. Nhập ngày rồi mới chọn file thì mới tính được 3 mục ở giữa
+3. File TGTK phải có cột ngày để tính ở vị trí I, có dạng 'ngày/tháng/năm' VD: 06/05/2022, cột tiền ở vị trí K dạng số, nếu sai dữ liệu cũng k tính được
+4. File lưu phải có sẵn, các ô dữ liệu được lưu vào sẽ format về mặc định, chỉ có dữ liệu mới truyền vào thôi.
